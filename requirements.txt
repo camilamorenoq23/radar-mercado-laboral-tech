@@ -1,0 +1,12 @@
+# --- Conexión y consumo de APIs ---
+requests==2.32.3
+
+# --- Manipulación y limpieza de datos ---
+pandas==2.2.3
+
+# --- Conexión a PostgreSQL ---
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.10
+
+# --- Manejo de variables de entorno (.env) ---
+python-dotenv==1.0.1

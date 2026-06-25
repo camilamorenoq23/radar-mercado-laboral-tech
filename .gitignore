@@ -1,0 +1,17 @@
+# Secretos y variables de entorno
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Datos (no versionamos datos crudos ni procesados)
+data/raw/*
+data/processed/*
+
+# IDE y sistema operativo
+.vscode/
+.DS_Store
+Thumbs.db
